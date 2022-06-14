@@ -1,0 +1,26 @@
+{  
+  "name": "projeto_biblioteca",
+  "version": "1.0.0", 
+  "description": "Trabalho de Desenvolvimento de Serviços e APIs", 
+  "main": "main.js",
+
+  "scripts": {
+    "start": "node main.js"
+  },
+
+  "keywords": [
+    "CRUD",
+    "alunos",
+    "livros"
+  ],
+  
+  "author": "Rafael Fraga de Moraes",
+  "license": "ISC",
+  "devDependencies": {},
+  
+
+  "dependencies": {
+    "espress": "^0.0.0",
+    "pg": "^8.7.3"
+  }
+}
